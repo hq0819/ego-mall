@@ -23,7 +23,7 @@
 		<tomcat-version>2.2</tomcat-version>
 		<pagehelper-version>4.1.6</pagehelper-version>
 		<ftpclient-version>3.3</ftpclient-version>
-		<junit-version>4.12</junit-version>
+		<junit-version>4.13.1</junit-version>
 		<solr-version>7.4.0</solr-version>
 		<http-client>4.5.2</http-client>
 	</properties>
