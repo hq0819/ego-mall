@@ -25,7 +25,7 @@
 		<ftpclient-version>3.3</ftpclient-version>
 		<junit-version>4.12</junit-version>
 		<solr-version>7.4.0</solr-version>
-		<http-client>4.5.2</http-client>
+		<http-client>4.5.13</http-client>
 	</properties>
 	<dependencyManagement>
 		<dependencies>
